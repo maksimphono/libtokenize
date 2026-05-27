@@ -1,4 +1,4 @@
-#include "tokenize.h"
+#include "../include/tokenize.h"
 
 u_int32_t count_tokens(char* command, char separator) {
     if (command == NULL) return 0;
