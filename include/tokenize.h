@@ -1,6 +1,7 @@
 #ifndef _TOKENIZE_H_
 #define _TOKENIZE_H_
 
+#include <sys/types.h>
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
